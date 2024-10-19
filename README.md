@@ -1,4 +1,4 @@
-The Facial Recognition System project aims to develop a robust and efficient system capable of recognizing and identifying individuals based on their facial features. Facial recognition technology has seen significant advancements in recent years, making it applicable in various domains including security, authentication, surveillance, and personalized user experiences.
+BharatNetra aims to develop a robust and efficient system capable of recognizing and identifying individuals based on their facial features. Facial recognition technology has seen significant advancements in recent years, making it applicable in various domains including security, authentication, surveillance, and personalized user experiences.
 
 Key Features:
 
